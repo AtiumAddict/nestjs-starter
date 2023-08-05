@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","paths":{"/api/v1/status":{"get":{"operationId":"getStatus","parameters":[],"responses":{"200":{"description":""}}}}},"info":{"title":"Pluggy","description":"API description","version":"1.0","contact":{}},"tags":[{"name":"nestjs-sample","description":""}],"servers":[],"components":{"schemas":{}}}
